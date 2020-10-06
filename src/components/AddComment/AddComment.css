@@ -1,0 +1,9 @@
+.addContainer {
+  margin-bottom: 20px;
+}
+
+.commentText {
+  width: -webkit-fill-available;
+  height: 60px;
+  resize: none;
+}
